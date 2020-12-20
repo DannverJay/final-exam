@@ -62,6 +62,10 @@ a:hover {
     padding-top: 20px;
     margin: 0 30px;
 }
+.header-main table{
+    width:100%;
+    border-style: none;
+}
 .header-body {
     display: inline;
     padding: 10px;
