@@ -67,6 +67,10 @@ a:hover {
     height: 100%;
     border-style: none;
     padding: 10px;
+    border-bottom: 1px inset #eff0f5;
+}
+.header-main table tr:hover {
+    color:#f95031;
 }
 .header-body {
     display: inline;
