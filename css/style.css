@@ -68,7 +68,7 @@ a:hover {
     padding: 10px;
   
 }
-.header-main table ul {
+.header-main table tr {
    border-bottom: 1px inset #eff0f5;
 }
 .header-main table tr:hover {
